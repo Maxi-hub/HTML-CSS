@@ -1,0 +1,33 @@
+a {
+    text-decoration: none;
+}
+
+.link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+
+}
+
+.header {
+    color: #222222;
+    font-size: 28p;
+    line-height: 36p;
+    font-weight: bold;
+}
+
+.tekst {
+    font-style: normal;
+    font-weight: 30;
+    font-size: 18p;
+    line-height: 30p;
+    color: #7D7987;
+}
+
+.header_light {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
