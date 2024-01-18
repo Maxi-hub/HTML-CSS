@@ -1,0 +1,153 @@
+.main {
+    width: 1319px;
+    height: 928px;
+    border: 1px solid #000;
+
+}
+
+.top {
+    width: 1289px;
+    height: 114px;
+    border: 1px solid #0150E9;
+    margin: 20px 20px;
+}
+
+.logo-img {
+    width: 35px;
+    height: 40px;
+    flex-shrink: 0;
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
+
+.top_links {
+    display: inline-flex;
+    justify-content: space-around;
+    width: 556px;
+    height: 20px;
+    border: 1px solid #20C905;
+    gap: 20px;
+    padding: 10px; 
+    float: right;
+    margin: 20px 120px;
+    
+}
+
+.header_link_home {
+    color: #F25822;
+    font-family: Gilroy-SemiBold;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+
+}
+
+.header__link {
+    color: #000;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+
+.about {
+    width: 1274px;
+    height: 536px;
+    border: 1px solid #E99C08;
+    margin: 20px;
+}
+
+.main-text {
+    width: 589px;
+    height: 494px;
+    border: 1px solid #BD0EFB;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.about_title {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+p {
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button {
+    width: 374px;
+    height: 94px;
+    border: 1px solid #FF1DA4;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 72px;
+}
+
+.start_button {
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    border: none;
+}
+
+.video_button {
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+    background-color: white;
+}
+
+.about_img {
+    width: 544.814px;
+    height: 374.843px;
+    flex-shrink: 0;
+    background: url(img/pngfind\ 1.png), lightgray 50% / cover no-repeat;
+
+}
+
+.Rectangle {
+    width: 1920px;
+    height: 243px;
+    flex-shrink: 0;
+    background: #FFF;
+}
+
+.companies {
+    justify-content: center;
+    width: 1240px;
+    height: 120px;
+    border: 1px solid #19FBFB;
+    gap: 48px;
+    margin-top: 40px;
+    margin-left: 60px;
+    padding-top: 40px;
+         
+}
+
+.img-company {
+    margin: 20px;
+}
