@@ -61,12 +61,12 @@ input[id="header_box"]:checked + .header_menu {
     opacity:0.6;
 }
 
-.header_menu_list {
+.man-category {
     color: #000;
     font-weight: bold;
 }
 
-ul {
+.header_menu_list {
     color: #F16D7F;
     padding: 10px 30px;
     font-weight: 400;
