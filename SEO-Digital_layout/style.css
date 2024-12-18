@@ -1,6 +1,7 @@
 .main {
     max-width: 1319px;
     min-height: 928vh;
+    padding: calc(50% - 800px);
     /* border: 1px solid #000; */
 }
 
