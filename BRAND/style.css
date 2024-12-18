@@ -485,6 +485,7 @@ h5 {
 
     .item-img2 {
         padding: 9px 89px 11px 89px;
+        width: inherit;
     }
 
     .top-ground {
